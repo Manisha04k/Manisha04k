@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manisha04k" alt="manisha04k" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **manishaahkv@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/0tgduqfeqwql](https://flowcv.com/resume/0tgduqfeqwql)
+- 📄 Know about my experiences [https://listwr.com/manisha-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
