@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manisha04k" alt="manisha04k" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning focusing on web development
 
 - 📫 How to reach me **manishaahkv@gmail.com**
 
